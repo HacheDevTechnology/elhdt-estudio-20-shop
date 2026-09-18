@@ -1,0 +1,16 @@
+{
+  "brand": "EducationalLabsHDT",
+  "updated_at": "2026-09-18T18:02:00Z",
+  "published": [
+    {
+      "sku": "ELHDT-ESTUDIO-20",
+      "name": "Estudio 2.0 — Kit de estudio con IA",
+      "type": "digital_bundle",
+      "price_usd": 19,
+      "linear": "HAC-37",
+      "repo": "https://github.com/HacheDevTechnology/elhdt-estudio-20-shop",
+      "status": "launching"
+    }
+  ],
+  "blacklist_future_duplicates": ["estudio 2.0", "kit estudio con ia para estudiantes", "pack 60 prompts estudiantes"]
+}
